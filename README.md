@@ -26,9 +26,10 @@ A feature-rich friend recommendation system built using the MERN stack. This pro
    cd friend-recommendation-system
    
 ## Install dependencies
-    ```bash
-    cd frontend
-    npm install
-    cd ../backend
-    npm install
-    ```
+
+   ```bash
+   cd frontend
+   npm install
+   cd ../backend
+   npm install
+
